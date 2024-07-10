@@ -12,15 +12,16 @@
  - 담당 역할과 기능 : <br>
    <h4>1. DB 관리, ERD 작성 </h4>
    <h4>2. 장바구니 기능 및 페이지 구현</h4>
-      - 상세1<br>
-   - 상세2<br>
-   - 상세3<br>
+   - 각 페이지 내 장바구니 추가 시 제품 및 수량 DB반영 <br>
+   - 계정별 장바구니 페이지 표시 및 제품번호별 이미지, 선택 수량, 금액, 배송비, 총액 조절 기능 구현<br>
+   - 장바구니 페이지 내 상황별 화면 표시, 금액 표시 및 오류 조정<br>
    <h4>3. 주문, 결제 기능 및 페이지 구현</h4>
-    - 토스 페이먼츠 API 연동<br>
-   - 상세2<br>
-   - 상세3<br>
+    - 토스 페이먼츠 API 연동 (네이버 페이, 스마트폰 QR을 통한 주문 DB 전송과 실제 결제 기능 구현) <br>
+    - ORDER 폼과 결제 화면 구현 및 결제시 작성된 주문 정보 DB 반영<br>
+    - 주문별 주문번호 부여 및 주문 완료 화면 구현 <br>
+   <h4>4.	메인, 상품 상세 페이지 Tailwind CSS 협업</h4>
 <br>
-<h3>메인 & 상품 페이지</h3>
+<h3>메인 & 상품 상세 페이지</h3>
  <img src="https://github.com/midanto28/3rd_Project_SpringBoot/assets/151593476/89ee8de0-3063-4de1-baec-af6be1eac8af"width=300 height=200>
  <img src="https://github.com/midanto28/3rd_Project_SpringBoot/assets/151593476/eac9fc7b-70a7-4511-beeb-22612d088854"width=300 height=200>
  <img src="https://github.com/midanto28/3rd_Project_SpringBoot/assets/151593476/6c86901b-6753-4b2a-8c45-ede134050368"width=300 height=200>
