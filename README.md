@@ -1,23 +1,20 @@
 # 3rd_Project_SpringBoot
 <br>
-3차 팀프로젝트 벨앙주 (SpringBoot & ReactJS)<br>
-SpringBoot와 JPA 기반, ReactJS로 프론트 작업, MariaDB 활용<br> 
-화장품 쇼핑몰 사이트입니다.
-<br><br>
-총 인원 : 6명
-<br><br>
-담당 역할과 기능 :
-<br>
-  - DB 관리, ERD 작성<br>
-  - 장바구니 기능 및 페이지 구현<br>
-  - 주문 결제 기능 및 페이지 구현<br>
-  - 토스 페이먼츠 API 연동<br>
- <br>
-파일 설명 :  
-<br>
- - project : Back-end (SpringBoot Folder) 
-<br> 
- - project_rt : Front-end (ReactJS Folder), node_modules 폴더 제외
+<h3>3차 팀프로젝트 벨앙주 (SpringBoot & ReactJS)</h3>
+ - SpringBoot, JPA & ReactJS & MariaDB 기반 화장품 쇼핑몰 사이트입니다.
+ <br><br>
+ 
+ - 파일 설명 : <br>
+     -project : Back-end (SpringBoot Folder)<br>
+     -project_rt : Front-end (ReactJS Folder), node_modules 제외<br><br>
+
+ - 총 인원 : 6명
+ - 담당 역할과 기능 : <br>
+   <h4>1. DB 관리, ERD 작성 </h4>
+   <h4>2. 장바구니 기능 및 페이지 구현</h4>
+   <h4>3. 주문, 결제 기능 및 페이지 구현</h4>
+    - 토스 페이먼츠 API 연동<br>
+
 <br>
 <br>
 <h3>메인 & 상품 페이지</h3>
