@@ -27,7 +27,7 @@ SpringBoot와 JPA 기반, ReactJS로 프론트 작업, MariaDB 활용<br>
 <br>
 <h3>장바구니 & 결제 페이지 (담당 기능)</h3>
  <img src="https://github.com/midanto28/3rd_Project_SpringBoot/assets/151593476/c72d9858-d89b-4e4d-8bc3-0b258c7d24e5"width=300 height=200>
- <img src="https://github.com/midanto28/3rd_Project_SpringBoot/assets/151593476/58c17f50-15c3-491c-8780-6dccb430b09e"width=300 height=200>
+ <img src="https://github.com/midanto28/3rd_Project_SpringBoot/assets/151593476/b6fc5de4-368d-4b65-b2a5-9401c8c9e46b"width=300 height=200>
  <img src="https://github.com/midanto28/3rd_Project_SpringBoot/assets/151593476/e3027b4d-82aa-4087-ba9a-9a6d95181024"width=300 height=200>
 <h3>ERD</h3>
 <img src="https://github.com/midanto28/3rd_Project_SpringBoot/assets/151593476/76fc9874-012e-46e8-9edc-eaeafb2ead84"width=300 height=200>
