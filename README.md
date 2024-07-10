@@ -5,8 +5,8 @@
  <br><br>
  
  - 파일 설명 : <br>
-     -project : Back-end (SpringBoot Folder)<br>
-     -project_rt : Front-end (ReactJS Folder), node_modules 제외<br><br>
+     -project : Back-end Folder (SpringBoot)<br>
+     -project_rt : Front-end Folder (ReactJS) / node_modules 제외<br><br>
 
  - 총 인원 : 6명
  - 담당 역할과 기능 : <br>
