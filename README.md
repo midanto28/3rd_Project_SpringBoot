@@ -13,9 +13,7 @@
    <h4>1. DB 관리, ERD 작성 </h4>
    <h4>2. 장바구니 기능 및 페이지 구현</h4>
    <h4>3. 주문, 결제 기능 및 페이지 구현</h4>
-    - 토스 페이먼츠 API 연동<br>
-
-<br>
+    - 토스 페이먼츠 API 연동
 <br>
 <h3>메인 & 상품 페이지</h3>
  <img src="https://github.com/midanto28/3rd_Project_SpringBoot/assets/151593476/89ee8de0-3063-4de1-baec-af6be1eac8af"width=300 height=200>
