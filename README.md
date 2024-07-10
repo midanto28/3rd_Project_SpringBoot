@@ -13,11 +13,11 @@ SpringBoot와 JPA 기반, ReactJS로 프론트 작업, MariaDB 활용<br>
   - 주문 결제 기능 및 페이지 구현<br>
   - 토스 페이먼츠 API 연동<br>
  <br>
-비고 :  
+파일 설명 :  
 <br>
- - project 폴더 : Back-end 
+ - project : Back-end (SpringBoot Folder) 
 <br> 
- - project_rt 폴더 : Front-end / node_modules 폴더 제외됨 
+ - project_rt : Front-end (ReactJS Folder), node_modules 폴더 제외
 <br>
 <br>
 <h3>메인 & 상품 페이지</h3>
