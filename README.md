@@ -8,7 +8,7 @@ SpringBoot와 JPA 기반, ReactJS로 프론트 작업, MariaDB 활용<br>
 <br><br>
 담당 역할과 기능 :
 <br>
-  - DB 관리, ERD 작성
+  - DB 관리, ERD 작성<br>
   - 장바구니 기능 및 페이지 구현<br>
   - 주문 결제 기능 및 페이지 구현<br>
   - 토스 페이먼츠 API 연동<br>
